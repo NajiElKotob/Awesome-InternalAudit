@@ -1,6 +1,7 @@
 # Awesome Internal Audit
 
 ## Internal Audit
+* [About Internal Auditing](https://global.theiia.org/about/about-internal-auditing/Pages/About-Internal-Auditing.aspx)
 * [Internal Audit](https://www.investopedia.com/terms/i/internalaudit.asp) - Alicia Tuovila
 * [Adopting Continuous Auditing/Continuous Monitoring in Internal Audit](https://www.isaca.org/Journal/archives/2012/Volume-3/Pages/Adopting-Continuous-Auditing-Continuous-Monitoring-in-Internal-Audit.aspx) - isaca.org
 
