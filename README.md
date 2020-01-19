@@ -25,7 +25,7 @@
 * [The data conundrum (PwC](https://cdn.cfo.com/content/uploads/2013/12/PwCs-Internal-Audit-Analytics-Conundrum-Webcast-12-5-13.pdf)
 
 ## Data Sampling
-* [Internal Audit Sampling](http://iia.org.au/sf_docs/default-source/quality/white-papers/iia-australia-white-internal-audit-sampling-(002).pdf) - IIA
+* [Internal Audit Sampling (Whitepaper)](http://iia.org.au/sf_docs/default-source/quality/white-papers/iia-australia-white-internal-audit-sampling-(002).pdf) - IIA
 * [Find your sample size](https://www.surveymonkey.com/curiosity/how-many-people-do-i-need-to-take-my-survey/) - SurveyMonkey.com
 * [Sample size calculator](https://www.surveymonkey.com/mp/sample-size-calculator/)
 * [Margin of error calculator](https://www.surveymonkey.com/mp/margin-of-error-calculator/)
