@@ -15,3 +15,8 @@
 
 ## Whitepapers
 * [Internal Audit Sampling](http://iia.org.au/sf_docs/default-source/quality/white-papers/iia-australia-white-internal-audit-sampling-(002).pdf) - IIA
+
+
+## Certifications
+* [Certified Internal Auditor (CIA)](https://na.theiia.org/certification/CIA-Certification/Pages/CIA-Certification.aspx)
+* [Certified Information Systems Auditor (CISA)](https://www.investopedia.com/terms/c/certified-information-systems-auditor.asp)
