@@ -15,6 +15,13 @@
 * [Benford's Law](http://mathworld.wolfram.com/BenfordsLaw.html) - Wolfram MathWorld
 * [How to Detect and Prevent Financial Statement Fraud](https://www.acfe.com/uploadedFiles/Shared_Content/Products/Self-Study_CPE/How%20to%20Detect%20and%20Prevent%20Financial%20Statement%20Fraud%202017_Chapter%20Excerpt.pdf) - ACFE
 * [Procure to Pay process optimization- Finding the hidden cash](https://www.procuredesk.com/procure-to-pay-process-optimization/#3_Where_is_the_hidden_cash_in_your_procure_to_pay_process)
+
+## Government 
+* [Improving budgets with government fraud technology](https://www.sas.com/en_us/insights/articles/risk-fraud/improving-budgets-government-fraud-technology.html)
+* [An Enterprise Approach to Fraud Detection and Prevention in Government](https://www.sas.com/en_us/whitepapers/iia-enterprise-approach-fraud-detection-prevention-in-government-107974/download.html)
+* [Addressing Government Waste, Fraud, and Abuse (e-Book)](https://play.google.com/books/reader?id=fzcMX4Gze9cC&hl=en&pg=GBS.PP1)
+
+## Financial Ratios
 * [Financial Ratios in Fraud Analytics](https://auditmonk.wordpress.com/2017/02/19/financial-ratios-in-fraud-analytics/)
 
 ## CAATs
