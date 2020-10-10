@@ -9,6 +9,7 @@
 * [Due Diligence](https://www.investopedia.com/terms/d/duediligence.asp)
 
 ## Fraud
+* [Fraud Prevention - What it is & why it matters](https://www.sas.com/en_us/insights/fraud/fraud-prevention.html) - sas.com
 * [Detecting Financial Statement Fraud](https://www.investopedia.com/articles/financial-theory/11/detecting-financial-fraud.asp) - Arthur Pinkasovitch (June 2019)
 * [Association Of Certified Fraud Examiners](https://www.investopedia.com/terms/a/association-of-certified-fraud-examiners.asp)
 * [Defining the Beneish Model](https://www.investopedia.com/terms/b/beneishmodel.asp)
