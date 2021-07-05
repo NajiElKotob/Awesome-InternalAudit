@@ -33,7 +33,8 @@
 * [Computer assisted audit techniques (CAATs)](https://www.iia.org.uk/resources/delivering-internal-audit/computer-assisted-audit-techniques-caats/?downloadPdf=true) - Chartered Institute of Internal Auditors
 
 ## Whitepapers and Reports
-* [The data conundrum (PwC](https://cdn.cfo.com/content/uploads/2013/12/PwCs-Internal-Audit-Analytics-Conundrum-Webcast-12-5-13.pdf)
+* [The data conundrum (PwC)](https://cdn.cfo.com/content/uploads/2013/12/PwCs-Internal-Audit-Analytics-Conundrum-Webcast-12-5-13.pdf)
+* [Enhancing Audit Quality](https://www.aicpa.org/content/dam/aicpa/eaq/eaq-highlights-report-2018-infographic.pdf)
 
 ## Data Sampling
 * [Internal Audit Sampling (Whitepaper)](http://iia.org.au/sf_docs/default-source/quality/white-papers/iia-australia-white-internal-audit-sampling-(002).pdf) - IIA
