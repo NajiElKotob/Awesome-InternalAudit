@@ -29,6 +29,7 @@
 * [The Classic Income Statement and Power BI – Better Together](https://storybi.com/2020/04/30/the-classic-income-statement-and-power-bi-better-together/) - Mark Walter (April 2020)
 
 ## CAATs
+* Fuzzy Lookup Add-In
 * [Computer-aided audit tools](https://en.wikipedia.org/wiki/Computer-aided_audit_tools) - Wikipedia
 * [Computer assisted audit techniques (CAATs)](https://www.iia.org.uk/resources/delivering-internal-audit/computer-assisted-audit-techniques-caats/?downloadPdf=true) - Chartered Institute of Internal Auditors
 
