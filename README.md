@@ -30,6 +30,14 @@
 
 ## CAATs
 * Fuzzy Lookup Add-In
+* Age analysis
+* Calculated field
+* Sequence check (Gap)
+* Stratification
+* Sampling
+* Drill-down
+* Sorting
+* Statistics
 * [Computer-aided audit tools](https://en.wikipedia.org/wiki/Computer-aided_audit_tools) - Wikipedia
 * [Computer assisted audit techniques (CAATs)](https://www.iia.org.uk/resources/delivering-internal-audit/computer-assisted-audit-techniques-caats/?downloadPdf=true) - Chartered Institute of Internal Auditors
 
