@@ -46,6 +46,8 @@
 * [Enhancing Audit Quality](https://www.aicpa.org/content/dam/aicpa/eaq/eaq-highlights-report-2018-infographic.pdf)
 
 ## AI and ML 
+* [How Artificial Intelligence and Machine Learning Will Revolutionize Audits](https://www.metricstream.com/insights/how-artificial-intelligence-and-machine-learning-will-revolutionize-audits.html) - metricstream.com
+
 
 ## Outliers and Anomalies
 
