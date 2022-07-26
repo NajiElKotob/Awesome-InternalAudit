@@ -5,7 +5,7 @@
 * [Internal Audit](https://www.investopedia.com/terms/i/internalaudit.asp) - Alicia Tuovila
 * [Adopting Continuous Auditing/Continuous Monitoring in Internal Audit](https://www.isaca.org/Journal/archives/2012/Volume-3/Pages/Adopting-Continuous-Auditing-Continuous-Monitoring-in-Internal-Audit.aspx) - isaca.org
 
-## Due Diligence
+## Due Diligence (DD)
 * [Due Diligence](https://www.investopedia.com/terms/d/duediligence.asp)
 
 ## Fraud
