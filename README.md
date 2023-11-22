@@ -44,8 +44,13 @@
 ## Whitepapers and Articles
 * [The data conundrum (PwC)](https://cdn.cfo.com/content/uploads/2013/12/PwCs-Internal-Audit-Analytics-Conundrum-Webcast-12-5-13.pdf)
 * [Enhancing Audit Quality](https://www.aicpa.org/content/dam/aicpa/eaq/eaq-highlights-report-2018-infographic.pdf)
+
+## Power BI
+### Articles and Cases
 * [Boosting internal audits at Microsoft with audit digitization, machine learning](https://www.microsoft.com/insidetrack/blog/boosting-internal-audits-at-microsoft-with-audit-digitization-machine-learning/) - microsoft.com
 * [Power BI reports for risks analysis and performance ranking](https://learn.microsoft.com/en-us/dynamics365/supply-chain/procurement/supply-risk-assessment-reports)
+### Tutorials
+* [Create a Risk Management Dashboard 📺](https://www.youtube.com/playlist?list=PLop0lNuba3nlnLocvxNmpZnp8L4XYi1kr)
 
 ## AI and ML 
 * [How Artificial Intelligence and Machine Learning Will Revolutionize Audits](https://www.metricstream.com/insights/how-artificial-intelligence-and-machine-learning-will-revolutionize-audits.html) - metricstream.com
