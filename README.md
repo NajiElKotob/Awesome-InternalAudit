@@ -42,6 +42,7 @@
 * [Computer assisted audit techniques (CAATs)](https://www.iia.org.uk/resources/delivering-internal-audit/computer-assisted-audit-techniques-caats/?downloadPdf=true) - Chartered Institute of Internal Auditors
 
 ## CCA
+`Continuous Control Assurance`
 * [SAP Process Control](https://www.sap.com/products/financial-management/internal-control.html)
 
 ## Whitepapers and Articles
