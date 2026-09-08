@@ -16,6 +16,7 @@
 * [Benford's Law](http://mathworld.wolfram.com/BenfordsLaw.html) - Wolfram MathWorld
 * [How to Detect and Prevent Financial Statement Fraud](https://www.acfe.com/uploadedFiles/Shared_Content/Products/Self-Study_CPE/How%20to%20Detect%20and%20Prevent%20Financial%20Statement%20Fraud%202017_Chapter%20Excerpt.pdf) - ACFE
 * [Procure to Pay process optimization- Finding the hidden cash](https://www.procuredesk.com/procure-to-pay-process-optimization/#3_Where_is_the_hidden_cash_in_your_procure_to_pay_process)
+* [B2B Refund Leakage Checklist](https://bluepeakfoundry.github.io/b2b-refund-leakage-checklist/) - Checklist for spotting duplicate payments, billing errors, and unused SaaS/vendor credits in finance operations.
 
 ## Government 
 * [Improving budgets with government fraud technology](https://www.sas.com/en_us/insights/articles/risk-fraud/improving-budgets-government-fraud-technology.html)
