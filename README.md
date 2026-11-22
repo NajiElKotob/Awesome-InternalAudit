@@ -61,6 +61,7 @@
 
 
 ## Outliers and Anomalies
+* [synthetic cfo public sample](https://huggingface.co/datasets/syntheticcfo/synthetic-cfo-sample) - A synthetic SAP ECC fiscal year (P2P, O2C, tax) with a labelled answer key of fraud records, for testing audit analytics and anomaly tests - synthetic cfo
 
 
 ## Data Sampling
